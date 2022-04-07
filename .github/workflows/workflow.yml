@@ -8,7 +8,7 @@ on:
       - 'src/print_input.py'
       - 'src/functions.py'
       - 'src/if_statements.py'
-      - 'src/for_loops.py'
+      - 'src/for_loopsD.py'
       - 'src/while_loops.py'
       - 'src/lists.py'
 jobs:
