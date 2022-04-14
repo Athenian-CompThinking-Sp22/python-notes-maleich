@@ -11,7 +11,7 @@ Use this repository (repo, for short) to practice skills as we work on them in c
   * defining, writing and calling your own functions 
 * [if statements & booleans](src/if_statements.py)
   * boolean values and conditions, if-elif-else blocks 
-* [for loops](src/for_loops.py)
+* [for loops](src/for_loopsD.py)
 * [while loops](src/while_loops.py)
 * [lists](src/lists.py) 
 
