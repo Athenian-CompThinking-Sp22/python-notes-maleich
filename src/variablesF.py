@@ -4,9 +4,9 @@
 #
 #
 #############################
-
-# Write code here:
-print("Hello world!")
-name = input("Please enter your name? ")
-print(f"Hello {name}!")
-# print(name)
+num = int(input("How old are you? "))
+# num = int(num)
+print(type(num))   # checks type
+double = num + num
+# prints value of double
+print(double)
